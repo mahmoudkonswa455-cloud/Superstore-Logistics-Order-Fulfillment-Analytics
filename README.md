@@ -25,7 +25,7 @@ The raw dataset contained formatting anomalies and missing values. An automated 
    * Replaced missing `Postal Code` records with valid text indicators and removed extra/duplicate rows.
 
 ### 📸 Power Query Cleaning & Custom Columns Screenshot:
-![Power Query Cleaning Process](images/power_query_cleaning.png)
+![Power Query Cleaning Process](power_query_cleaning.png)
 
 ---
 
@@ -50,7 +50,7 @@ FROM fact_sales_clean;
 ```
 
 ### 📸 SQL Query & KPI Validation Output Screenshot:
-![SQL Cleaning and KPI Results](images/sql_cleaning.png)
+![SQL Cleaning and KPI Results](sql_cleaning.png)
 
 ---
 
@@ -63,7 +63,7 @@ Before building the final dashboard, the cleaned dataset was explored using Exce
 * **Shipping Mode Volume:** Analyzing revenue and order distribution across Standard, Second, First Class, and Same Day shipping.
 
 ### 📸 Excel Pivot Tables Analysis Screenshot:
-![Pivot Tables Analysis](images/pivot_tables.png)
+![Pivot Tables Analysis](pivot_tables.png)
 
 ---
 
