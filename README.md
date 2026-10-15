@@ -70,7 +70,7 @@ Before building the final dashboard, the cleaned dataset was explored using Exce
 ## 📊 Step 4: Power BI Dashboard & Key Business Insights
 
 ### 📸 Interactive Power BI Dashboard Screenshot:
-![Power BI Dashboard Preview](images/dashboard_preview.png)
+![Power BI Dashboard Preview](dashboard_preview.png)
 
 ### Executive KPIs
 
